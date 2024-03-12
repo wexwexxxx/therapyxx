@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Mar 2024 16:09:28 at https://www.planetstherapy.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.planetstherapy.org/ -O1 "C:\My Web Sites\tesss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/images/images-44R.iAA0UcPmk.png (from https://www.planetstherapy.org/)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/assets/images/elements/features/bg-1.png (from https://www.planetstherapy.org/)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/assets/images/elements/features/bg-2.png (from https://www.planetstherapy.org/)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/assets/images/elements/features/bg-3.png (from https://www.planetstherapy.org/)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/assets/images/elements/features/bg-4.png (from https://www.planetstherapy.org/)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/images/elements/footer.png (from https://www.planetstherapy.org/)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/fonts/712HX7rwragU.svg (from https://www.planetstherapy.org/css/css-XIwxACQ8x75P.css)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/fonts/p1eAR55JhbkA.svg (from https://www.planetstherapy.org/css/css-XIwxACQ8x75P.css)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/fonts/3f9Ctn9cy94i.svg (from https://www.planetstherapy.org/css/css-XIwxACQ8x75P.css)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/fonts/VvEEnr3QSZsD.svg (from https://www.planetstherapy.org/css/css-FMlQLo7aZIdX.css)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/fonts/4Aa2lMS5OrPl.svg (from https://www.planetstherapy.org/css/css-FMlQLo7aZIdX.css)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/fonts/nVLm3Vm6Fhdl.svg (from https://www.planetstherapy.org/css/css-FMlQLo7aZIdX.css)
+16:09:56	Error: 	"Not Found" (404) at link https://www.planetstherapy.org/fonts/koNIXNknLeP9.svg (from https://www.planetstherapy.org/css/css-H0JssrYI01Vh.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 80 links scanned, 66 files written (15055187 bytes overall) [13708260 bytes received at 489580 bytes/sec], 2579169 bytes transferred using HTTP compression in 48 files, ratio 44%, 20.0 requests per connection
+(13 errors, 0 warnings, 0 messages)
